@@ -23,8 +23,8 @@ int factorial(int num)
 int main()
 {
     string a = "hello";
-    //reverse(a);
-    //cout << endl;
+    reverse(a);
+    cout << endl;
     cout << factorial(4) << endl;
     return 0;
 }
