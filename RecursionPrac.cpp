@@ -78,7 +78,7 @@ int main()
     // cout << power(2, 3)<<endl;
     // cout<< sumRange(6) <<endl;
     //cout << factorial(6)<<endl;
-    // cout << fibonacci(10)<<endl;
+    cout << fibonacci(10)<<endl;
     cout << reverse(b) << endl;
     cout << "Enter a word to see if it is a palindrome: ";
     cin >> b;
