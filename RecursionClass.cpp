@@ -25,8 +25,8 @@ int main()
     string a = "hello";
     string b ="racecar";
     reverse(a);
-    cout << " ";
-    reverse(b);
+    //cout << " ";
+    //reverse(b);
     cout << endl;
     cout << factorial(4) << endl;
     return 0;
