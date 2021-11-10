@@ -53,7 +53,7 @@ int main()
     Shape * shape1;
     cout<< "Circle area: "<< c1.calc_area() << endl;
     cout<< "Square area: " <<s1.calc_area() << endl;
-   // cout << shape1 -> calc_area()<< endl;
+    cout << shape1 -> calc_area()<< endl;
 
 
     int choice;
